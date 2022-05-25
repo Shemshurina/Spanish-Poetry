@@ -41,7 +41,7 @@ def number_of_syllables(line):
     line1 = nlp(line.replace('\n', ''))
     words = [token for token in line1]
     for word in words:
-        if word.pos_ != 'PUNCT' and str(word) != '—' and str(word)!= '—':
+        if word.pos_ != 'PUNCT' and str(word) != '—':
             for s in pylabeador.syllabify(str(word)):
                 syllables.append(s)
     for syll in syllables:
