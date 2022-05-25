@@ -157,4 +157,3 @@ def tsa_json(txt_file):
     with open(json_name, 'w') as fp:
         json.dump(text_dic, fp, indent=4)
         
-tsa_json('Ángela Figuera Aymerich_Bombardeo.txt')
