@@ -1,0 +1,2320 @@
+{
+    "meta": {
+        "filename": "luis_cernuda_como_leve_sonido.json",
+        "title": "Como leve sonido",
+        "author": "Luis Cernuda",
+        "number_of_stanzas": "5",
+        "rhyme_scheme": "None"
+    },
+    "sentences": [
+        {
+            "text": "Como leve sonido:",
+            "words": [
+                {
+                    "wf": "Como",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 4,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "sentence_index_neg": 4,
+                    "ana": {
+                        "lex": "como",
+                        "gr.pos": "SCONJ"
+                    }
+                },
+                {
+                    "wf": "leve",
+                    "wtype": "word",
+                    "off_start": 5,
+                    "off_end": 9,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "sentence_index_neg": 3,
+                    "ana": {
+                        "lex": "leve",
+                        "gr.pos": "ADJ",
+                        "gr.number": "Sing"
+                    }
+                },
+                {
+                    "wf": "sonido",
+                    "wtype": "word",
+                    "off_start": 10,
+                    "off_end": 16,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "sentence_index_neg": 2,
+                    "ana": {
+                        "lex": "sonido",
+                        "gr.pos": "NOUN",
+                        "gr.number": "Sing",
+                        "gr.gen": "Masc"
+                    }
+                },
+                {
+                    "wf": ":",
+                    "wtype": "punct",
+                    "off_start": 17,
+                    "off_end": 18,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "sentence_index_neg": 1
+                }
+            ],
+            "lang": 1,
+            "meta": 7
+        },
+        {
+            "text": "hoja que roza un vidrio,",
+            "words": [
+                {
+                    "wf": "hoja",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 4,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "sentence_index_neg": 6,
+                    "ana": {
+                        "lex": "hoja",
+                        "gr.pos": "NOUN",
+                        "gr.number": "Sing",
+                        "gr.gen": "Fem"
+                    }
+                },
+                {
+                    "wf": "que",
+                    "wtype": "word",
+                    "off_start": 5,
+                    "off_end": 8,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "sentence_index_neg": 5,
+                    "ana": {
+                        "lex": "que",
+                        "gr.pos": "PRON",
+                        "gr.proType": "Int"
+                    }
+                },
+                {
+                    "wf": "roza",
+                    "wtype": "word",
+                    "off_start": 9,
+                    "off_end": 13,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "sentence_index_neg": 4,
+                    "ana": {
+                        "lex": "rozar",
+                        "gr.pos": "VERB",
+                        "gr.number": "Sing",
+                        "gr.pers": "3",
+                        "gr.mood": "Ind",
+                        "gr.tense": "Pres",
+                        "gr.verbform": "Fin"
+                    }
+                },
+                {
+                    "wf": "un",
+                    "wtype": "word",
+                    "off_start": 14,
+                    "off_end": 16,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "sentence_index_neg": 3,
+                    "ana": {
+                        "lex": "uno",
+                        "gr.pos": "DET",
+                        "gr.number": "Sing",
+                        "gr.proType": "Art",
+                        "gr.gen": "Masc",
+                        "gr.definite": "Ind"
+                    }
+                },
+                {
+                    "wf": "vidrio",
+                    "wtype": "word",
+                    "off_start": 17,
+                    "off_end": 23,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "sentence_index_neg": 2,
+                    "ana": {
+                        "lex": "vidrio",
+                        "gr.pos": "NOUN",
+                        "gr.number": "Sing",
+                        "gr.gen": "Masc"
+                    }
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 24,
+                    "off_end": 25,
+                    "sentence_index": 5,
+                    "next_word": 6,
+                    "sentence_index_neg": 1
+                }
+            ],
+            "lang": 1,
+            "meta": 7
+        },
+        {
+            "text": "agua que acaricia unas guijas,",
+            "words": [
+                {
+                    "wf": "agua",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 4,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "sentence_index_neg": 6,
+                    "ana": {
+                        "lex": "agua",
+                        "gr.pos": "NOUN",
+                        "gr.number": "Sing",
+                        "gr.gen": "Fem"
+                    }
+                },
+                {
+                    "wf": "que",
+                    "wtype": "word",
+                    "off_start": 5,
+                    "off_end": 8,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "sentence_index_neg": 5,
+                    "ana": {
+                        "lex": "que",
+                        "gr.pos": "PRON",
+                        "gr.proType": "Int"
+                    }
+                },
+                {
+                    "wf": "acaricia",
+                    "wtype": "word",
+                    "off_start": 9,
+                    "off_end": 17,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "sentence_index_neg": 4,
+                    "ana": {
+                        "lex": "acariciar",
+                        "gr.pos": "VERB",
+                        "gr.number": "Sing",
+                        "gr.pers": "3",
+                        "gr.mood": "Ind",
+                        "gr.tense": "Pres",
+                        "gr.verbform": "Fin"
+                    }
+                },
+                {
+                    "wf": "unas",
+                    "wtype": "word",
+                    "off_start": 18,
+                    "off_end": 22,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "sentence_index_neg": 3,
+                    "ana": {
+                        "lex": "uno",
+                        "gr.pos": "DET",
+                        "gr.number": "Plur",
+                        "gr.proType": "Art",
+                        "gr.gen": "Fem",
+                        "gr.definite": "Ind"
+                    }
+                },
+                {
+                    "wf": "guijas",
+                    "wtype": "word",
+                    "off_start": 23,
+                    "off_end": 29,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "sentence_index_neg": 2,
+                    "ana": {
+                        "lex": "guija",
+                        "gr.pos": "NOUN",
+                        "gr.number": "Plur",
+                        "gr.gen": "Fem"
+                    }
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 30,
+                    "off_end": 31,
+                    "sentence_index": 5,
+                    "next_word": 6,
+                    "sentence_index_neg": 1
+                }
+            ],
+            "lang": 1,
+            "meta": 10
+        },
+        {
+            "text": "lluvia que besa una frente juvenil;",
+            "words": [
+                {
+                    "wf": "lluvia",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 6,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "sentence_index_neg": 7,
+                    "ana": {
+                        "lex": "lluvia",
+                        "gr.pos": "NOUN",
+                        "gr.number": "Sing",
+                        "gr.gen": "Fem"
+                    }
+                },
+                {
+                    "wf": "que",
+                    "wtype": "word",
+                    "off_start": 7,
+                    "off_end": 10,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "sentence_index_neg": 6,
+                    "ana": {
+                        "lex": "que",
+                        "gr.pos": "PRON",
+                        "gr.proType": "Int"
+                    }
+                },
+                {
+                    "wf": "besa",
+                    "wtype": "word",
+                    "off_start": 11,
+                    "off_end": 15,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "sentence_index_neg": 5,
+                    "ana": {
+                        "lex": "besir",
+                        "gr.pos": "VERB",
+                        "gr.number": "Sing",
+                        "gr.pers": "3",
+                        "gr.mood": "Sub",
+                        "gr.tense": "Pres",
+                        "gr.verbform": "Fin"
+                    }
+                },
+                {
+                    "wf": "una",
+                    "wtype": "word",
+                    "off_start": 16,
+                    "off_end": 19,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "sentence_index_neg": 4,
+                    "ana": {
+                        "lex": "uno",
+                        "gr.pos": "DET",
+                        "gr.number": "Sing",
+                        "gr.proType": "Art",
+                        "gr.gen": "Fem",
+                        "gr.definite": "Ind"
+                    }
+                },
+                {
+                    "wf": "frente",
+                    "wtype": "word",
+                    "off_start": 20,
+                    "off_end": 26,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "sentence_index_neg": 3,
+                    "ana": {
+                        "lex": "frente",
+                        "gr.pos": "NOUN",
+                        "gr.number": "Sing"
+                    }
+                },
+                {
+                    "wf": "juvenil",
+                    "wtype": "word",
+                    "off_start": 27,
+                    "off_end": 34,
+                    "sentence_index": 5,
+                    "next_word": 6,
+                    "sentence_index_neg": 2,
+                    "ana": {
+                        "lex": "juvenil",
+                        "gr.pos": "ADJ",
+                        "gr.number": "Sing"
+                    }
+                },
+                {
+                    "wf": ";",
+                    "wtype": "punct",
+                    "off_start": 35,
+                    "off_end": 36,
+                    "sentence_index": 6,
+                    "next_word": 7,
+                    "sentence_index_neg": 1
+                }
+            ],
+            "lang": 1,
+            "meta": 11
+        },
+        {
+            "text": "Como r\u00e1pida caricia:",
+            "words": [
+                {
+                    "wf": "Como",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 4,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "sentence_index_neg": 4,
+                    "ana": {
+                        "lex": "como",
+                        "gr.pos": "SCONJ"
+                    }
+                },
+                {
+                    "wf": "r\u00e1pida",
+                    "wtype": "word",
+                    "off_start": 5,
+                    "off_end": 11,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "sentence_index_neg": 3,
+                    "ana": {
+                        "lex": "r\u00e1pido",
+                        "gr.pos": "ADJ",
+                        "gr.number": "Sing",
+                        "gr.gen": "Fem"
+                    }
+                },
+                {
+                    "wf": "caricia",
+                    "wtype": "word",
+                    "off_start": 12,
+                    "off_end": 19,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "sentence_index_neg": 2,
+                    "ana": {
+                        "lex": "caricia",
+                        "gr.pos": "NOUN",
+                        "gr.number": "Sing",
+                        "gr.gen": "Fem"
+                    }
+                },
+                {
+                    "wf": ":",
+                    "wtype": "punct",
+                    "off_start": 20,
+                    "off_end": 21,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "sentence_index_neg": 1
+                }
+            ],
+            "lang": 1,
+            "meta": 8
+        },
+        {
+            "text": "pie desnudo sobre el camino,",
+            "words": [
+                {
+                    "wf": "pie",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 3,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "sentence_index_neg": 6,
+                    "ana": {
+                        "lex": "pie",
+                        "gr.pos": "NOUN",
+                        "gr.number": "Sing",
+                        "gr.gen": "Masc"
+                    }
+                },
+                {
+                    "wf": "desnudo",
+                    "wtype": "word",
+                    "off_start": 4,
+                    "off_end": 11,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "sentence_index_neg": 5,
+                    "ana": {
+                        "lex": "desnudo",
+                        "gr.pos": "ADJ",
+                        "gr.number": "Sing",
+                        "gr.gen": "Masc",
+                        "gr.verbform": "Part"
+                    }
+                },
+                {
+                    "wf": "sobre",
+                    "wtype": "word",
+                    "off_start": 12,
+                    "off_end": 17,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "sentence_index_neg": 4,
+                    "ana": {
+                        "lex": "sobre",
+                        "gr.pos": "ADP"
+                    }
+                },
+                {
+                    "wf": "el",
+                    "wtype": "word",
+                    "off_start": 18,
+                    "off_end": 20,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "sentence_index_neg": 3,
+                    "ana": {
+                        "lex": "el",
+                        "gr.pos": "DET",
+                        "gr.number": "Sing",
+                        "gr.proType": "Art",
+                        "gr.gen": "Masc",
+                        "gr.definite": "Def"
+                    }
+                },
+                {
+                    "wf": "camino",
+                    "wtype": "word",
+                    "off_start": 21,
+                    "off_end": 27,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "sentence_index_neg": 2,
+                    "ana": {
+                        "lex": "camino",
+                        "gr.pos": "NOUN",
+                        "gr.number": "Sing",
+                        "gr.gen": "Masc"
+                    }
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 28,
+                    "off_end": 29,
+                    "sentence_index": 5,
+                    "next_word": 6,
+                    "sentence_index_neg": 1
+                }
+            ],
+            "lang": 1,
+            "meta": 9
+        },
+        {
+            "text": "dedos que ensayan el primer amor,",
+            "words": [
+                {
+                    "wf": "dedos",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 5,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "sentence_index_neg": 7,
+                    "ana": {
+                        "lex": "dedo",
+                        "gr.pos": "NOUN",
+                        "gr.number": "Plur",
+                        "gr.gen": "Masc"
+                    }
+                },
+                {
+                    "wf": "que",
+                    "wtype": "word",
+                    "off_start": 6,
+                    "off_end": 9,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "sentence_index_neg": 6,
+                    "ana": {
+                        "lex": "que",
+                        "gr.pos": "PRON",
+                        "gr.proType": "Int"
+                    }
+                },
+                {
+                    "wf": "ensayan",
+                    "wtype": "word",
+                    "off_start": 10,
+                    "off_end": 17,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "sentence_index_neg": 5,
+                    "ana": {
+                        "lex": "ensair",
+                        "gr.pos": "VERB",
+                        "gr.number": "Plur",
+                        "gr.pers": "3",
+                        "gr.mood": "Sub",
+                        "gr.tense": "Pres",
+                        "gr.verbform": "Fin"
+                    }
+                },
+                {
+                    "wf": "el",
+                    "wtype": "word",
+                    "off_start": 18,
+                    "off_end": 20,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "sentence_index_neg": 4,
+                    "ana": {
+                        "lex": "el",
+                        "gr.pos": "DET",
+                        "gr.number": "Sing",
+                        "gr.proType": "Art",
+                        "gr.gen": "Masc",
+                        "gr.definite": "Def"
+                    }
+                },
+                {
+                    "wf": "primer",
+                    "wtype": "word",
+                    "off_start": 21,
+                    "off_end": 27,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "sentence_index_neg": 3,
+                    "ana": {
+                        "lex": "primero",
+                        "gr.pos": "ADJ",
+                        "gr.number": "Sing",
+                        "gr.gen": "Masc"
+                    }
+                },
+                {
+                    "wf": "amor",
+                    "wtype": "word",
+                    "off_start": 28,
+                    "off_end": 32,
+                    "sentence_index": 5,
+                    "next_word": 6,
+                    "sentence_index_neg": 2,
+                    "ana": {
+                        "lex": "amor",
+                        "gr.pos": "NOUN",
+                        "gr.number": "Sing",
+                        "gr.gen": "Masc"
+                    }
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 33,
+                    "off_end": 34,
+                    "sentence_index": 6,
+                    "next_word": 7,
+                    "sentence_index_neg": 1
+                }
+            ],
+            "lang": 1,
+            "meta": 9
+        },
+        {
+            "text": "s\u00e1banas tibias sobre el cuerpo solitario;",
+            "words": [
+                {
+                    "wf": "s\u00e1banas",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 7,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "sentence_index_neg": 7,
+                    "ana": {
+                        "lex": "s\u00e1bana",
+                        "gr.pos": "ADJ",
+                        "gr.number": "Plur",
+                        "gr.gen": "Fem"
+                    }
+                },
+                {
+                    "wf": "tibias",
+                    "wtype": "word",
+                    "off_start": 8,
+                    "off_end": 14,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "sentence_index_neg": 6,
+                    "ana": {
+                        "lex": "tibia",
+                        "gr.pos": "NOUN",
+                        "gr.number": "Plur",
+                        "gr.gen": "Fem"
+                    }
+                },
+                {
+                    "wf": "sobre",
+                    "wtype": "word",
+                    "off_start": 15,
+                    "off_end": 20,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "sentence_index_neg": 5,
+                    "ana": {
+                        "lex": "sobre",
+                        "gr.pos": "ADP"
+                    }
+                },
+                {
+                    "wf": "el",
+                    "wtype": "word",
+                    "off_start": 21,
+                    "off_end": 23,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "sentence_index_neg": 4,
+                    "ana": {
+                        "lex": "el",
+                        "gr.pos": "DET",
+                        "gr.number": "Sing",
+                        "gr.proType": "Art",
+                        "gr.gen": "Masc",
+                        "gr.definite": "Def"
+                    }
+                },
+                {
+                    "wf": "cuerpo",
+                    "wtype": "word",
+                    "off_start": 24,
+                    "off_end": 30,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "sentence_index_neg": 3,
+                    "ana": {
+                        "lex": "cuerpo",
+                        "gr.pos": "NOUN",
+                        "gr.number": "Sing",
+                        "gr.gen": "Masc"
+                    }
+                },
+                {
+                    "wf": "solitario",
+                    "wtype": "word",
+                    "off_start": 31,
+                    "off_end": 40,
+                    "sentence_index": 5,
+                    "next_word": 6,
+                    "sentence_index_neg": 2,
+                    "ana": {
+                        "lex": "solitario",
+                        "gr.pos": "ADJ",
+                        "gr.number": "Sing",
+                        "gr.gen": "Masc"
+                    }
+                },
+                {
+                    "wf": ";",
+                    "wtype": "punct",
+                    "off_start": 41,
+                    "off_end": 42,
+                    "sentence_index": 6,
+                    "next_word": 7,
+                    "sentence_index_neg": 1
+                }
+            ],
+            "lang": 1,
+            "meta": 13
+        },
+        {
+            "text": "Como fugaz deseo:",
+            "words": [
+                {
+                    "wf": "Como",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 4,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "sentence_index_neg": 4,
+                    "ana": {
+                        "lex": "como",
+                        "gr.pos": "SCONJ"
+                    }
+                },
+                {
+                    "wf": "fugaz",
+                    "wtype": "word",
+                    "off_start": 5,
+                    "off_end": 10,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "sentence_index_neg": 3,
+                    "ana": {
+                        "lex": "fugaz",
+                        "gr.pos": "ADJ",
+                        "gr.number": "Sing"
+                    }
+                },
+                {
+                    "wf": "deseo",
+                    "wtype": "word",
+                    "off_start": 11,
+                    "off_end": 16,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "sentence_index_neg": 2,
+                    "ana": {
+                        "lex": "desear",
+                        "gr.pos": "VERB",
+                        "gr.number": "Sing",
+                        "gr.pers": "1",
+                        "gr.mood": "Ind",
+                        "gr.tense": "Pres",
+                        "gr.verbform": "Fin"
+                    }
+                },
+                {
+                    "wf": ":",
+                    "wtype": "punct",
+                    "off_start": 17,
+                    "off_end": 18,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "sentence_index_neg": 1
+                }
+            ],
+            "lang": 1,
+            "meta": 6
+        },
+        {
+            "text": "seda brillante en la luz,",
+            "words": [
+                {
+                    "wf": "seda",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 4,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "sentence_index_neg": 6,
+                    "ana": {
+                        "lex": "seda",
+                        "gr.pos": "NOUN",
+                        "gr.number": "Sing",
+                        "gr.gen": "Fem"
+                    }
+                },
+                {
+                    "wf": "brillante",
+                    "wtype": "word",
+                    "off_start": 5,
+                    "off_end": 14,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "sentence_index_neg": 5,
+                    "ana": {
+                        "lex": "brillante",
+                        "gr.pos": "ADJ",
+                        "gr.number": "Sing"
+                    }
+                },
+                {
+                    "wf": "en",
+                    "wtype": "word",
+                    "off_start": 15,
+                    "off_end": 17,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "sentence_index_neg": 4,
+                    "ana": {
+                        "lex": "en",
+                        "gr.pos": "ADP"
+                    }
+                },
+                {
+                    "wf": "la",
+                    "wtype": "word",
+                    "off_start": 18,
+                    "off_end": 20,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "sentence_index_neg": 3,
+                    "ana": {
+                        "lex": "el",
+                        "gr.pos": "DET",
+                        "gr.number": "Sing",
+                        "gr.proType": "Art",
+                        "gr.gen": "Fem",
+                        "gr.definite": "Def"
+                    }
+                },
+                {
+                    "wf": "luz",
+                    "wtype": "word",
+                    "off_start": 21,
+                    "off_end": 24,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "sentence_index_neg": 2,
+                    "ana": {
+                        "lex": "luz",
+                        "gr.pos": "NOUN",
+                        "gr.number": "Sing",
+                        "gr.gen": "Fem"
+                    }
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 25,
+                    "off_end": 26,
+                    "sentence_index": 5,
+                    "next_word": 6,
+                    "sentence_index_neg": 1
+                }
+            ],
+            "lang": 1,
+            "meta": 7
+        },
+        {
+            "text": "esbelto adolescente entrevisto,",
+            "words": [
+                {
+                    "wf": "esbelto",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 7,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "sentence_index_neg": 4,
+                    "ana": {
+                        "lex": "esbelto",
+                        "gr.pos": "NOUN",
+                        "gr.number": "Sing",
+                        "gr.gen": "Masc"
+                    }
+                },
+                {
+                    "wf": "adolescente",
+                    "wtype": "word",
+                    "off_start": 8,
+                    "off_end": 19,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "sentence_index_neg": 3,
+                    "ana": {
+                        "lex": "adolescente",
+                        "gr.pos": "ADJ",
+                        "gr.number": "Sing"
+                    }
+                },
+                {
+                    "wf": "entrevisto",
+                    "wtype": "word",
+                    "off_start": 20,
+                    "off_end": 30,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "sentence_index_neg": 2,
+                    "ana": {
+                        "lex": "entrevisto",
+                        "gr.pos": "ADJ",
+                        "gr.number": "Sing",
+                        "gr.gen": "Masc"
+                    }
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 31,
+                    "off_end": 32,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "sentence_index_neg": 1
+                }
+            ],
+            "lang": 1,
+            "meta": 10
+        },
+        {
+            "text": "l\u00e1grimas por ser m\u00e1s que un hombre;",
+            "words": [
+                {
+                    "wf": "l\u00e1grimas",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 8,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "sentence_index_neg": 8,
+                    "ana": {
+                        "lex": "l\u00e1grima",
+                        "gr.pos": "NOUN",
+                        "gr.number": "Plur",
+                        "gr.gen": "Fem"
+                    }
+                },
+                {
+                    "wf": "por",
+                    "wtype": "word",
+                    "off_start": 9,
+                    "off_end": 12,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "sentence_index_neg": 7,
+                    "ana": {
+                        "lex": "por",
+                        "gr.pos": "ADP"
+                    }
+                },
+                {
+                    "wf": "ser",
+                    "wtype": "word",
+                    "off_start": 13,
+                    "off_end": 16,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "sentence_index_neg": 6,
+                    "ana": {
+                        "lex": "ser",
+                        "gr.pos": "AUX",
+                        "gr.verbform": "Inf"
+                    }
+                },
+                {
+                    "wf": "m\u00e1s",
+                    "wtype": "word",
+                    "off_start": 17,
+                    "off_end": 20,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "sentence_index_neg": 5,
+                    "ana": {
+                        "lex": "m\u00e1s",
+                        "gr.pos": "ADV"
+                    }
+                },
+                {
+                    "wf": "que",
+                    "wtype": "word",
+                    "off_start": 21,
+                    "off_end": 24,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "sentence_index_neg": 4,
+                    "ana": {
+                        "lex": "que",
+                        "gr.pos": "SCONJ"
+                    }
+                },
+                {
+                    "wf": "un",
+                    "wtype": "word",
+                    "off_start": 25,
+                    "off_end": 27,
+                    "sentence_index": 5,
+                    "next_word": 6,
+                    "sentence_index_neg": 3,
+                    "ana": {
+                        "lex": "uno",
+                        "gr.pos": "DET",
+                        "gr.number": "Sing",
+                        "gr.proType": "Art",
+                        "gr.gen": "Masc",
+                        "gr.definite": "Ind"
+                    }
+                },
+                {
+                    "wf": "hombre",
+                    "wtype": "word",
+                    "off_start": 28,
+                    "off_end": 34,
+                    "sentence_index": 6,
+                    "next_word": 7,
+                    "sentence_index_neg": 2,
+                    "ana": {
+                        "lex": "hombre",
+                        "gr.pos": "NOUN",
+                        "gr.number": "Sing",
+                        "gr.gen": "Masc"
+                    }
+                },
+                {
+                    "wf": ";",
+                    "wtype": "punct",
+                    "off_start": 35,
+                    "off_end": 36,
+                    "sentence_index": 7,
+                    "next_word": 8,
+                    "sentence_index_neg": 1
+                }
+            ],
+            "lang": 1,
+            "meta": 9
+        },
+        {
+            "text": "Como esta vida que no es m\u00eda",
+            "words": [
+                {
+                    "wf": "Como",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 4,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "sentence_index_neg": 7,
+                    "ana": {
+                        "lex": "como",
+                        "gr.pos": "SCONJ"
+                    }
+                },
+                {
+                    "wf": "esta",
+                    "wtype": "word",
+                    "off_start": 5,
+                    "off_end": 9,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "sentence_index_neg": 6,
+                    "ana": {
+                        "lex": "este",
+                        "gr.pos": "DET",
+                        "gr.number": "Sing",
+                        "gr.proType": "Dem",
+                        "gr.gen": "Fem"
+                    }
+                },
+                {
+                    "wf": "vida",
+                    "wtype": "word",
+                    "off_start": 10,
+                    "off_end": 14,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "sentence_index_neg": 5,
+                    "ana": {
+                        "lex": "vida",
+                        "gr.pos": "NOUN",
+                        "gr.number": "Sing",
+                        "gr.gen": "Fem"
+                    }
+                },
+                {
+                    "wf": "que",
+                    "wtype": "word",
+                    "off_start": 15,
+                    "off_end": 18,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "sentence_index_neg": 4,
+                    "ana": {
+                        "lex": "que",
+                        "gr.pos": "PRON",
+                        "gr.proType": "Int"
+                    }
+                },
+                {
+                    "wf": "no",
+                    "wtype": "word",
+                    "off_start": 19,
+                    "off_end": 21,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "sentence_index_neg": 3,
+                    "ana": {
+                        "lex": "no",
+                        "gr.pos": "ADV",
+                        "gr.polarity": "Neg"
+                    }
+                },
+                {
+                    "wf": "es",
+                    "wtype": "word",
+                    "off_start": 22,
+                    "off_end": 24,
+                    "sentence_index": 5,
+                    "next_word": 6,
+                    "sentence_index_neg": 2,
+                    "ana": {
+                        "lex": "ser",
+                        "gr.pos": "AUX",
+                        "gr.number": "Sing",
+                        "gr.pers": "3",
+                        "gr.mood": "Ind",
+                        "gr.tense": "Pres",
+                        "gr.verbform": "Fin"
+                    }
+                },
+                {
+                    "wf": "m\u00eda",
+                    "wtype": "word",
+                    "off_start": 25,
+                    "off_end": 28,
+                    "sentence_index": 6,
+                    "next_word": 7,
+                    "sentence_index_neg": 1,
+                    "ana": {
+                        "lex": "m\u00edo",
+                        "gr.pos": "PRON",
+                        "gr.number": "Sing",
+                        "gr.proType": "Ind",
+                        "gr.gen": "Fem",
+                        "gr.pers": "1"
+                    }
+                }
+            ],
+            "lang": 1,
+            "meta": 8
+        },
+        {
+            "text": "y sin embargo es la m\u00eda,",
+            "words": [
+                {
+                    "wf": "y",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 1,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "sentence_index_neg": 7,
+                    "ana": {
+                        "lex": "y",
+                        "gr.pos": "CCONJ"
+                    }
+                },
+                {
+                    "wf": "sin",
+                    "wtype": "word",
+                    "off_start": 2,
+                    "off_end": 5,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "sentence_index_neg": 6,
+                    "ana": {
+                        "lex": "sin",
+                        "gr.pos": "ADP"
+                    }
+                },
+                {
+                    "wf": "embargo",
+                    "wtype": "word",
+                    "off_start": 6,
+                    "off_end": 13,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "sentence_index_neg": 5,
+                    "ana": {
+                        "lex": "embargo",
+                        "gr.pos": "NOUN",
+                        "gr.number": "Sing",
+                        "gr.gen": "Masc"
+                    }
+                },
+                {
+                    "wf": "es",
+                    "wtype": "word",
+                    "off_start": 14,
+                    "off_end": 16,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "sentence_index_neg": 4,
+                    "ana": {
+                        "lex": "ser",
+                        "gr.pos": "AUX",
+                        "gr.number": "Sing",
+                        "gr.pers": "3",
+                        "gr.mood": "Ind",
+                        "gr.tense": "Pres",
+                        "gr.verbform": "Fin"
+                    }
+                },
+                {
+                    "wf": "la",
+                    "wtype": "word",
+                    "off_start": 17,
+                    "off_end": 19,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "sentence_index_neg": 3,
+                    "ana": {
+                        "lex": "el",
+                        "gr.pos": "DET",
+                        "gr.number": "Sing",
+                        "gr.proType": "Art",
+                        "gr.gen": "Fem",
+                        "gr.definite": "Def"
+                    }
+                },
+                {
+                    "wf": "m\u00eda",
+                    "wtype": "word",
+                    "off_start": 20,
+                    "off_end": 23,
+                    "sentence_index": 5,
+                    "next_word": 6,
+                    "sentence_index_neg": 2,
+                    "ana": {
+                        "lex": "m\u00eda",
+                        "gr.pos": "DET",
+                        "gr.number": "Sing",
+                        "gr.proType": "Ind",
+                        "gr.gen": "Fem",
+                        "gr.pers": "1"
+                    }
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 24,
+                    "off_end": 25,
+                    "sentence_index": 6,
+                    "next_word": 7,
+                    "sentence_index_neg": 1
+                }
+            ],
+            "lang": 1,
+            "meta": 7
+        },
+        {
+            "text": "como este af\u00e1n sin nombre",
+            "words": [
+                {
+                    "wf": "como",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 4,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "sentence_index_neg": 5,
+                    "ana": {
+                        "lex": "como",
+                        "gr.pos": "SCONJ"
+                    }
+                },
+                {
+                    "wf": "este",
+                    "wtype": "word",
+                    "off_start": 5,
+                    "off_end": 9,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "sentence_index_neg": 4,
+                    "ana": {
+                        "lex": "este",
+                        "gr.pos": "DET",
+                        "gr.number": "Sing",
+                        "gr.proType": "Dem",
+                        "gr.gen": "Masc"
+                    }
+                },
+                {
+                    "wf": "af\u00e1n",
+                    "wtype": "word",
+                    "off_start": 10,
+                    "off_end": 14,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "sentence_index_neg": 3,
+                    "ana": {
+                        "lex": "af\u00e1n",
+                        "gr.pos": "NOUN",
+                        "gr.number": "Sing",
+                        "gr.gen": "Masc"
+                    }
+                },
+                {
+                    "wf": "sin",
+                    "wtype": "word",
+                    "off_start": 15,
+                    "off_end": 18,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "sentence_index_neg": 2,
+                    "ana": {
+                        "lex": "sin",
+                        "gr.pos": "ADP"
+                    }
+                },
+                {
+                    "wf": "nombre",
+                    "wtype": "word",
+                    "off_start": 19,
+                    "off_end": 25,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "sentence_index_neg": 1,
+                    "ana": {
+                        "lex": "nombre",
+                        "gr.pos": "NOUN",
+                        "gr.number": "Sing",
+                        "gr.gen": "Masc"
+                    }
+                }
+            ],
+            "lang": 1,
+            "meta": 7
+        },
+        {
+            "text": "que no me pertenece y sin embargo soy yo;",
+            "words": [
+                {
+                    "wf": "que",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 3,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "sentence_index_neg": 10,
+                    "ana": {
+                        "lex": "que",
+                        "gr.pos": "SCONJ"
+                    }
+                },
+                {
+                    "wf": "no",
+                    "wtype": "word",
+                    "off_start": 4,
+                    "off_end": 6,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "sentence_index_neg": 9,
+                    "ana": {
+                        "lex": "no",
+                        "gr.pos": "ADV",
+                        "gr.polarity": "Neg"
+                    }
+                },
+                {
+                    "wf": "me",
+                    "wtype": "word",
+                    "off_start": 7,
+                    "off_end": 9,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "sentence_index_neg": 8,
+                    "ana": {
+                        "lex": "yo",
+                        "gr.pos": "PRON",
+                        "gr.number": "Sing",
+                        "gr.case": "Dat",
+                        "gr.proType": "Prs",
+                        "gr.pers": "1"
+                    }
+                },
+                {
+                    "wf": "pertenece",
+                    "wtype": "word",
+                    "off_start": 10,
+                    "off_end": 19,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "sentence_index_neg": 7,
+                    "ana": {
+                        "lex": "pertenecer",
+                        "gr.pos": "VERB",
+                        "gr.number": "Sing",
+                        "gr.pers": "3",
+                        "gr.mood": "Ind",
+                        "gr.tense": "Pres",
+                        "gr.verbform": "Fin"
+                    }
+                },
+                {
+                    "wf": "y",
+                    "wtype": "word",
+                    "off_start": 20,
+                    "off_end": 21,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "sentence_index_neg": 6,
+                    "ana": {
+                        "lex": "y",
+                        "gr.pos": "CCONJ"
+                    }
+                },
+                {
+                    "wf": "sin",
+                    "wtype": "word",
+                    "off_start": 22,
+                    "off_end": 25,
+                    "sentence_index": 5,
+                    "next_word": 6,
+                    "sentence_index_neg": 5,
+                    "ana": {
+                        "lex": "sin",
+                        "gr.pos": "ADP"
+                    }
+                },
+                {
+                    "wf": "embargo",
+                    "wtype": "word",
+                    "off_start": 26,
+                    "off_end": 33,
+                    "sentence_index": 6,
+                    "next_word": 7,
+                    "sentence_index_neg": 4,
+                    "ana": {
+                        "lex": "embargo",
+                        "gr.pos": "NOUN",
+                        "gr.number": "Sing",
+                        "gr.gen": "Masc"
+                    }
+                },
+                {
+                    "wf": "soy",
+                    "wtype": "word",
+                    "off_start": 34,
+                    "off_end": 37,
+                    "sentence_index": 7,
+                    "next_word": 8,
+                    "sentence_index_neg": 3,
+                    "ana": {
+                        "lex": "ser",
+                        "gr.pos": "AUX",
+                        "gr.number": "Sing",
+                        "gr.pers": "1",
+                        "gr.mood": "Ind",
+                        "gr.tense": "Pres",
+                        "gr.verbform": "Fin"
+                    }
+                },
+                {
+                    "wf": "yo",
+                    "wtype": "word",
+                    "off_start": 38,
+                    "off_end": 40,
+                    "sentence_index": 8,
+                    "next_word": 9,
+                    "sentence_index_neg": 2,
+                    "ana": {
+                        "lex": "yo",
+                        "gr.pos": "PRON",
+                        "gr.number": "Sing",
+                        "gr.case": "Nom",
+                        "gr.proType": "Prs",
+                        "gr.pers": "1"
+                    }
+                },
+                {
+                    "wf": ";",
+                    "wtype": "punct",
+                    "off_start": 41,
+                    "off_end": 42,
+                    "sentence_index": 9,
+                    "next_word": 10,
+                    "sentence_index_neg": 1
+                }
+            ],
+            "lang": 1,
+            "meta": 12
+        },
+        {
+            "text": "Como todo aquello que de cerca o de lejos",
+            "words": [
+                {
+                    "wf": "Como",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 4,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "sentence_index_neg": 9,
+                    "ana": {
+                        "lex": "como",
+                        "gr.pos": "SCONJ"
+                    }
+                },
+                {
+                    "wf": "todo",
+                    "wtype": "word",
+                    "off_start": 5,
+                    "off_end": 9,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "sentence_index_neg": 8,
+                    "ana": {
+                        "lex": "todo",
+                        "gr.pos": "DET",
+                        "gr.number": "Sing",
+                        "gr.proType": "Tot",
+                        "gr.gen": "Masc"
+                    }
+                },
+                {
+                    "wf": "aquello",
+                    "wtype": "word",
+                    "off_start": 10,
+                    "off_end": 17,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "sentence_index_neg": 7,
+                    "ana": {
+                        "lex": "aquel",
+                        "gr.pos": "PRON",
+                        "gr.number": "Sing",
+                        "gr.proType": "Dem"
+                    }
+                },
+                {
+                    "wf": "que",
+                    "wtype": "word",
+                    "off_start": 18,
+                    "off_end": 21,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "sentence_index_neg": 6,
+                    "ana": {
+                        "lex": "que",
+                        "gr.pos": "PRON",
+                        "gr.proType": "Int"
+                    }
+                },
+                {
+                    "wf": "de",
+                    "wtype": "word",
+                    "off_start": 22,
+                    "off_end": 24,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "sentence_index_neg": 5,
+                    "ana": {
+                        "lex": "de",
+                        "gr.pos": "ADP"
+                    }
+                },
+                {
+                    "wf": "cerca",
+                    "wtype": "word",
+                    "off_start": 25,
+                    "off_end": 30,
+                    "sentence_index": 5,
+                    "next_word": 6,
+                    "sentence_index_neg": 4,
+                    "ana": {
+                        "lex": "cerca",
+                        "gr.pos": "ADV"
+                    }
+                },
+                {
+                    "wf": "o",
+                    "wtype": "word",
+                    "off_start": 31,
+                    "off_end": 32,
+                    "sentence_index": 6,
+                    "next_word": 7,
+                    "sentence_index_neg": 3,
+                    "ana": {
+                        "lex": "o",
+                        "gr.pos": "CCONJ"
+                    }
+                },
+                {
+                    "wf": "de",
+                    "wtype": "word",
+                    "off_start": 33,
+                    "off_end": 35,
+                    "sentence_index": 7,
+                    "next_word": 8,
+                    "sentence_index_neg": 2,
+                    "ana": {
+                        "lex": "de",
+                        "gr.pos": "ADP"
+                    }
+                },
+                {
+                    "wf": "lejos",
+                    "wtype": "word",
+                    "off_start": 36,
+                    "off_end": 41,
+                    "sentence_index": 8,
+                    "next_word": 9,
+                    "sentence_index_neg": 1,
+                    "ana": {
+                        "lex": "lejos",
+                        "gr.pos": "ADV"
+                    }
+                }
+            ],
+            "lang": 1,
+            "meta": 13
+        },
+        {
+            "text": "me roza, me besa, me hiere,",
+            "words": [
+                {
+                    "wf": "me",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 2,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "sentence_index_neg": 9,
+                    "ana": {
+                        "lex": "yo",
+                        "gr.pos": "PRON",
+                        "gr.number": "Sing",
+                        "gr.case": "Acc",
+                        "gr.proType": "Prs",
+                        "gr.pers": "1"
+                    }
+                },
+                {
+                    "wf": "roza",
+                    "wtype": "word",
+                    "off_start": 3,
+                    "off_end": 7,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "sentence_index_neg": 8,
+                    "ana": {
+                        "lex": "rozar",
+                        "gr.pos": "VERB",
+                        "gr.number": "Sing",
+                        "gr.pers": "3",
+                        "gr.mood": "Ind",
+                        "gr.tense": "Pres",
+                        "gr.verbform": "Fin"
+                    }
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 8,
+                    "off_end": 9,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "sentence_index_neg": 7
+                },
+                {
+                    "wf": "me",
+                    "wtype": "word",
+                    "off_start": 10,
+                    "off_end": 12,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "sentence_index_neg": 6,
+                    "ana": {
+                        "lex": "yo",
+                        "gr.pos": "PRON",
+                        "gr.number": "Sing",
+                        "gr.case": "Acc",
+                        "gr.proType": "Prs",
+                        "gr.pers": "1"
+                    }
+                },
+                {
+                    "wf": "besa",
+                    "wtype": "word",
+                    "off_start": 13,
+                    "off_end": 17,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "sentence_index_neg": 5,
+                    "ana": {
+                        "lex": "besa",
+                        "gr.pos": "VERB",
+                        "gr.number": "Sing",
+                        "gr.pers": "1",
+                        "gr.mood": "Ind",
+                        "gr.tense": "Pres",
+                        "gr.verbform": "Fin"
+                    }
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 18,
+                    "off_end": 19,
+                    "sentence_index": 5,
+                    "next_word": 6,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "wf": "me",
+                    "wtype": "word",
+                    "off_start": 20,
+                    "off_end": 22,
+                    "sentence_index": 6,
+                    "next_word": 7,
+                    "sentence_index_neg": 3,
+                    "ana": {
+                        "lex": "yo",
+                        "gr.pos": "PRON",
+                        "gr.number": "Sing",
+                        "gr.case": "Dat",
+                        "gr.proType": "Prs",
+                        "gr.pers": "1"
+                    }
+                },
+                {
+                    "wf": "hiere",
+                    "wtype": "word",
+                    "off_start": 23,
+                    "off_end": 28,
+                    "sentence_index": 7,
+                    "next_word": 8,
+                    "sentence_index_neg": 2,
+                    "ana": {
+                        "lex": "herir",
+                        "gr.pos": "VERB",
+                        "gr.number": "Sing",
+                        "gr.pers": "3",
+                        "gr.mood": "Ind",
+                        "gr.tense": "Pres",
+                        "gr.verbform": "Fin"
+                    }
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 29,
+                    "off_end": 30,
+                    "sentence_index": 8,
+                    "next_word": 9,
+                    "sentence_index_neg": 1
+                }
+            ],
+            "lang": 1,
+            "meta": 8
+        },
+        {
+            "text": "tu presencia est\u00e1 conmigo fuera y dentro,",
+            "words": [
+                {
+                    "wf": "tu",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 2,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "sentence_index_neg": 8,
+                    "ana": {
+                        "lex": "tu",
+                        "gr.pos": "DET",
+                        "gr.number": "Sing",
+                        "gr.proType": "Prs",
+                        "gr.pers": "2"
+                    }
+                },
+                {
+                    "wf": "presencia",
+                    "wtype": "word",
+                    "off_start": 3,
+                    "off_end": 12,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "sentence_index_neg": 7,
+                    "ana": {
+                        "lex": "presencia",
+                        "gr.pos": "NOUN",
+                        "gr.number": "Sing",
+                        "gr.gen": "Fem"
+                    }
+                },
+                {
+                    "wf": "est\u00e1",
+                    "wtype": "word",
+                    "off_start": 13,
+                    "off_end": 17,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "sentence_index_neg": 6,
+                    "ana": {
+                        "lex": "estar",
+                        "gr.pos": "AUX",
+                        "gr.number": "Sing",
+                        "gr.pers": "3",
+                        "gr.mood": "Ind",
+                        "gr.tense": "Pres",
+                        "gr.verbform": "Fin"
+                    }
+                },
+                {
+                    "wf": "conmigo",
+                    "wtype": "word",
+                    "off_start": 18,
+                    "off_end": 25,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "sentence_index_neg": 5,
+                    "ana": {
+                        "lex": "yo",
+                        "gr.pos": "PRON",
+                        "gr.number": "Sing",
+                        "gr.case": "Com",
+                        "gr.proType": "Prs",
+                        "gr.pers": "1"
+                    }
+                },
+                {
+                    "wf": "fuera",
+                    "wtype": "word",
+                    "off_start": 26,
+                    "off_end": 31,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "sentence_index_neg": 4,
+                    "ana": {
+                        "lex": "fuera",
+                        "gr.pos": "ADV"
+                    }
+                },
+                {
+                    "wf": "y",
+                    "wtype": "word",
+                    "off_start": 32,
+                    "off_end": 33,
+                    "sentence_index": 5,
+                    "next_word": 6,
+                    "sentence_index_neg": 3,
+                    "ana": {
+                        "lex": "y",
+                        "gr.pos": "CCONJ"
+                    }
+                },
+                {
+                    "wf": "dentro",
+                    "wtype": "word",
+                    "off_start": 34,
+                    "off_end": 40,
+                    "sentence_index": 6,
+                    "next_word": 7,
+                    "sentence_index_neg": 2,
+                    "ana": {
+                        "lex": "dentro",
+                        "gr.pos": "ADV"
+                    }
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 41,
+                    "off_end": 42,
+                    "sentence_index": 7,
+                    "next_word": 8,
+                    "sentence_index_neg": 1
+                }
+            ],
+            "lang": 1,
+            "meta": 12
+        },
+        {
+            "text": "es mi vida misma y no es mi vida,",
+            "words": [
+                {
+                    "wf": "es",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 2,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "sentence_index_neg": 10,
+                    "ana": {
+                        "lex": "ser",
+                        "gr.pos": "AUX",
+                        "gr.number": "Sing",
+                        "gr.pers": "3",
+                        "gr.mood": "Ind",
+                        "gr.tense": "Pres",
+                        "gr.verbform": "Fin"
+                    }
+                },
+                {
+                    "wf": "mi",
+                    "wtype": "word",
+                    "off_start": 3,
+                    "off_end": 5,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "sentence_index_neg": 9,
+                    "ana": {
+                        "lex": "mi",
+                        "gr.pos": "DET",
+                        "gr.number": "Sing",
+                        "gr.proType": "Prs",
+                        "gr.pers": "1"
+                    }
+                },
+                {
+                    "wf": "vida",
+                    "wtype": "word",
+                    "off_start": 6,
+                    "off_end": 10,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "sentence_index_neg": 8,
+                    "ana": {
+                        "lex": "vida",
+                        "gr.pos": "NOUN",
+                        "gr.number": "Sing",
+                        "gr.gen": "Fem"
+                    }
+                },
+                {
+                    "wf": "misma",
+                    "wtype": "word",
+                    "off_start": 11,
+                    "off_end": 16,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "sentence_index_neg": 7,
+                    "ana": {
+                        "lex": "mismo",
+                        "gr.pos": "ADJ",
+                        "gr.number": "Sing",
+                        "gr.gen": "Fem"
+                    }
+                },
+                {
+                    "wf": "y",
+                    "wtype": "word",
+                    "off_start": 17,
+                    "off_end": 18,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "sentence_index_neg": 6,
+                    "ana": {
+                        "lex": "y",
+                        "gr.pos": "CCONJ"
+                    }
+                },
+                {
+                    "wf": "no",
+                    "wtype": "word",
+                    "off_start": 19,
+                    "off_end": 21,
+                    "sentence_index": 5,
+                    "next_word": 6,
+                    "sentence_index_neg": 5,
+                    "ana": {
+                        "lex": "no",
+                        "gr.pos": "ADV",
+                        "gr.polarity": "Neg"
+                    }
+                },
+                {
+                    "wf": "es",
+                    "wtype": "word",
+                    "off_start": 22,
+                    "off_end": 24,
+                    "sentence_index": 6,
+                    "next_word": 7,
+                    "sentence_index_neg": 4,
+                    "ana": {
+                        "lex": "ser",
+                        "gr.pos": "AUX",
+                        "gr.number": "Sing",
+                        "gr.pers": "3",
+                        "gr.mood": "Ind",
+                        "gr.tense": "Pres",
+                        "gr.verbform": "Fin"
+                    }
+                },
+                {
+                    "wf": "mi",
+                    "wtype": "word",
+                    "off_start": 25,
+                    "off_end": 27,
+                    "sentence_index": 7,
+                    "next_word": 8,
+                    "sentence_index_neg": 3,
+                    "ana": {
+                        "lex": "mi",
+                        "gr.pos": "DET",
+                        "gr.number": "Sing",
+                        "gr.proType": "Prs",
+                        "gr.pers": "1"
+                    }
+                },
+                {
+                    "wf": "vida",
+                    "wtype": "word",
+                    "off_start": 28,
+                    "off_end": 32,
+                    "sentence_index": 8,
+                    "next_word": 9,
+                    "sentence_index_neg": 2,
+                    "ana": {
+                        "lex": "vida",
+                        "gr.pos": "NOUN",
+                        "gr.number": "Sing",
+                        "gr.gen": "Fem"
+                    }
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 33,
+                    "off_end": 34,
+                    "sentence_index": 9,
+                    "next_word": 10,
+                    "sentence_index_neg": 1
+                }
+            ],
+            "lang": 1,
+            "meta": 11
+        },
+        {
+            "text": "as\u00ed como una hoja y otra hoja",
+            "words": [
+                {
+                    "wf": "as\u00ed",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 3,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "sentence_index_neg": 7,
+                    "ana": {
+                        "lex": "as\u00ed",
+                        "gr.pos": "ADV"
+                    }
+                },
+                {
+                    "wf": "como",
+                    "wtype": "word",
+                    "off_start": 4,
+                    "off_end": 8,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "sentence_index_neg": 6,
+                    "ana": {
+                        "lex": "como",
+                        "gr.pos": "SCONJ"
+                    }
+                },
+                {
+                    "wf": "una",
+                    "wtype": "word",
+                    "off_start": 9,
+                    "off_end": 12,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "sentence_index_neg": 5,
+                    "ana": {
+                        "lex": "uno",
+                        "gr.pos": "DET",
+                        "gr.number": "Sing",
+                        "gr.proType": "Art",
+                        "gr.gen": "Fem",
+                        "gr.definite": "Ind"
+                    }
+                },
+                {
+                    "wf": "hoja",
+                    "wtype": "word",
+                    "off_start": 13,
+                    "off_end": 17,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "sentence_index_neg": 4,
+                    "ana": {
+                        "lex": "hoja",
+                        "gr.pos": "NOUN",
+                        "gr.number": "Sing",
+                        "gr.gen": "Fem"
+                    }
+                },
+                {
+                    "wf": "y",
+                    "wtype": "word",
+                    "off_start": 18,
+                    "off_end": 19,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "sentence_index_neg": 3,
+                    "ana": {
+                        "lex": "y",
+                        "gr.pos": "CCONJ"
+                    }
+                },
+                {
+                    "wf": "otra",
+                    "wtype": "word",
+                    "off_start": 20,
+                    "off_end": 24,
+                    "sentence_index": 5,
+                    "next_word": 6,
+                    "sentence_index_neg": 2,
+                    "ana": {
+                        "lex": "otro",
+                        "gr.pos": "DET",
+                        "gr.number": "Sing",
+                        "gr.proType": "Ind",
+                        "gr.gen": "Fem"
+                    }
+                },
+                {
+                    "wf": "hoja",
+                    "wtype": "word",
+                    "off_start": 25,
+                    "off_end": 29,
+                    "sentence_index": 6,
+                    "next_word": 7,
+                    "sentence_index_neg": 1,
+                    "ana": {
+                        "lex": "hoja",
+                        "gr.pos": "NOUN",
+                        "gr.number": "Sing",
+                        "gr.gen": "Fem"
+                    }
+                }
+            ],
+            "lang": 1,
+            "meta": 8
+        },
+        {
+            "text": "son la apariencia del viento que las lleva.",
+            "words": [
+                {
+                    "wf": "son",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 3,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "sentence_index_neg": 9,
+                    "ana": {
+                        "lex": "ser",
+                        "gr.pos": "AUX",
+                        "gr.number": "Plur",
+                        "gr.pers": "3",
+                        "gr.mood": "Ind",
+                        "gr.tense": "Pres",
+                        "gr.verbform": "Fin"
+                    }
+                },
+                {
+                    "wf": "la",
+                    "wtype": "word",
+                    "off_start": 4,
+                    "off_end": 6,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "sentence_index_neg": 8,
+                    "ana": {
+                        "lex": "el",
+                        "gr.pos": "DET",
+                        "gr.number": "Sing",
+                        "gr.proType": "Art",
+                        "gr.gen": "Fem",
+                        "gr.definite": "Def"
+                    }
+                },
+                {
+                    "wf": "apariencia",
+                    "wtype": "word",
+                    "off_start": 7,
+                    "off_end": 17,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "sentence_index_neg": 7,
+                    "ana": {
+                        "lex": "apariencia",
+                        "gr.pos": "NOUN",
+                        "gr.number": "Sing",
+                        "gr.gen": "Fem"
+                    }
+                },
+                {
+                    "wf": "del",
+                    "wtype": "word",
+                    "off_start": 18,
+                    "off_end": 21,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "sentence_index_neg": 6,
+                    "ana": {
+                        "lex": "del",
+                        "gr.pos": "ADP",
+                        "gr.number": "Sing",
+                        "gr.proType": "Art",
+                        "gr.gen": "Masc",
+                        "gr.definite": "Def"
+                    }
+                },
+                {
+                    "wf": "viento",
+                    "wtype": "word",
+                    "off_start": 22,
+                    "off_end": 28,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "sentence_index_neg": 5,
+                    "ana": {
+                        "lex": "viento",
+                        "gr.pos": "NOUN",
+                        "gr.number": "Sing",
+                        "gr.gen": "Masc"
+                    }
+                },
+                {
+                    "wf": "que",
+                    "wtype": "word",
+                    "off_start": 29,
+                    "off_end": 32,
+                    "sentence_index": 5,
+                    "next_word": 6,
+                    "sentence_index_neg": 4,
+                    "ana": {
+                        "lex": "que",
+                        "gr.pos": "PRON",
+                        "gr.proType": "Int"
+                    }
+                },
+                {
+                    "wf": "las",
+                    "wtype": "word",
+                    "off_start": 33,
+                    "off_end": 36,
+                    "sentence_index": 6,
+                    "next_word": 7,
+                    "sentence_index_neg": 3,
+                    "ana": {
+                        "lex": "\u00e9l",
+                        "gr.pos": "PRON",
+                        "gr.number": "Plur",
+                        "gr.case": "Acc",
+                        "gr.proType": "Prs",
+                        "gr.gen": "Fem",
+                        "gr.pers": "3"
+                    }
+                },
+                {
+                    "wf": "lleva",
+                    "wtype": "word",
+                    "off_start": 37,
+                    "off_end": 42,
+                    "sentence_index": 7,
+                    "next_word": 8,
+                    "sentence_index_neg": 2,
+                    "ana": {
+                        "lex": "llevar",
+                        "gr.pos": "VERB",
+                        "gr.number": "Sing",
+                        "gr.pers": "3",
+                        "gr.mood": "Ind",
+                        "gr.tense": "Pres",
+                        "gr.verbform": "Fin"
+                    }
+                },
+                {
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_start": 43,
+                    "off_end": 44,
+                    "sentence_index": 8,
+                    "next_word": 9,
+                    "sentence_index_neg": 1
+                }
+            ],
+            "lang": 1,
+            "meta": 12
+        }
+    ]
+}

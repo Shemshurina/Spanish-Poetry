@@ -1,0 +1,807 @@
+{
+    "meta": {
+        "filename": "luis_cernuda_el_andaluz.json",
+        "title": "El andaluz",
+        "author": "Luis Cernuda",
+        "number_of_stanzas": "3",
+        "rhyme_scheme": "None"
+    },
+    "sentences": [
+        {
+            "text": "Sombra hecha de luz,",
+            "words": [
+                {
+                    "wf": "Sombra",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 6,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "sentence_index_neg": 5,
+                    "ana": {
+                        "lex": "sombra",
+                        "gr.pos": "NOUN",
+                        "gr.number": "Sing",
+                        "gr.gen": "Fem"
+                    }
+                },
+                {
+                    "wf": "hecha",
+                    "wtype": "word",
+                    "off_start": 7,
+                    "off_end": 12,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "sentence_index_neg": 4,
+                    "ana": {
+                        "lex": "hecho",
+                        "gr.pos": "ADJ",
+                        "gr.number": "Sing",
+                        "gr.gen": "Fem",
+                        "gr.verbform": "Part"
+                    }
+                },
+                {
+                    "wf": "de",
+                    "wtype": "word",
+                    "off_start": 13,
+                    "off_end": 15,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "sentence_index_neg": 3,
+                    "ana": {
+                        "lex": "de",
+                        "gr.pos": "ADP"
+                    }
+                },
+                {
+                    "wf": "luz",
+                    "wtype": "word",
+                    "off_start": 16,
+                    "off_end": 19,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "sentence_index_neg": 2,
+                    "ana": {
+                        "lex": "luz",
+                        "gr.pos": "NOUN",
+                        "gr.number": "Sing",
+                        "gr.gen": "Fem"
+                    }
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 20,
+                    "off_end": 21,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "sentence_index_neg": 1
+                }
+            ],
+            "lang": 1,
+            "meta": 5
+        },
+        {
+            "text": "que templando repele,",
+            "words": [
+                {
+                    "wf": "que",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 3,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "sentence_index_neg": 4,
+                    "ana": {
+                        "lex": "que",
+                        "gr.pos": "SCONJ"
+                    }
+                },
+                {
+                    "wf": "templando",
+                    "wtype": "word",
+                    "off_start": 4,
+                    "off_end": 13,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "sentence_index_neg": 3,
+                    "ana": {
+                        "lex": "templar",
+                        "gr.pos": "VERB",
+                        "gr.verbform": "Ger"
+                    }
+                },
+                {
+                    "wf": "repele",
+                    "wtype": "word",
+                    "off_start": 14,
+                    "off_end": 20,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "sentence_index_neg": 2,
+                    "ana": {
+                        "lex": "repele",
+                        "gr.pos": "NOUN",
+                        "gr.number": "Sing",
+                        "gr.gen": "Fem"
+                    }
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 21,
+                    "off_end": 22,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "sentence_index_neg": 1
+                }
+            ],
+            "lang": 1,
+            "meta": 7
+        },
+        {
+            "text": "es fuego con nieve",
+            "words": [
+                {
+                    "wf": "es",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 2,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "sentence_index_neg": 4,
+                    "ana": {
+                        "lex": "ser",
+                        "gr.pos": "AUX",
+                        "gr.number": "Sing",
+                        "gr.pers": "3",
+                        "gr.mood": "Ind",
+                        "gr.tense": "Pres",
+                        "gr.verbform": "Fin"
+                    }
+                },
+                {
+                    "wf": "fuego",
+                    "wtype": "word",
+                    "off_start": 3,
+                    "off_end": 8,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "sentence_index_neg": 3,
+                    "ana": {
+                        "lex": "fuego",
+                        "gr.pos": "NOUN",
+                        "gr.number": "Sing",
+                        "gr.gen": "Masc"
+                    }
+                },
+                {
+                    "wf": "con",
+                    "wtype": "word",
+                    "off_start": 9,
+                    "off_end": 12,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "sentence_index_neg": 2,
+                    "ana": {
+                        "lex": "con",
+                        "gr.pos": "ADP"
+                    }
+                },
+                {
+                    "wf": "nieve",
+                    "wtype": "word",
+                    "off_start": 13,
+                    "off_end": 18,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "sentence_index_neg": 1,
+                    "ana": {
+                        "lex": "nieve",
+                        "gr.pos": "NOUN",
+                        "gr.number": "Sing",
+                        "gr.gen": "Fem"
+                    }
+                }
+            ],
+            "lang": 1,
+            "meta": 6
+        },
+        {
+            "text": "el andaluz.",
+            "words": [
+                {
+                    "wf": "el",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 2,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "sentence_index_neg": 3,
+                    "ana": {
+                        "lex": "el",
+                        "gr.pos": "DET",
+                        "gr.number": "Sing",
+                        "gr.proType": "Art",
+                        "gr.gen": "Masc",
+                        "gr.definite": "Def"
+                    }
+                },
+                {
+                    "wf": "andaluz",
+                    "wtype": "word",
+                    "off_start": 3,
+                    "off_end": 10,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "sentence_index_neg": 2,
+                    "ana": {
+                        "lex": "andaluz",
+                        "gr.pos": "NOUN",
+                        "gr.number": "Sing",
+                        "gr.gen": "Masc"
+                    }
+                },
+                {
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_start": 11,
+                    "off_end": 12,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "sentence_index_neg": 1
+                }
+            ],
+            "lang": 1,
+            "meta": 4
+        },
+        {
+            "text": "Enigma al trasluz,",
+            "words": [
+                {
+                    "wf": "Enigma",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 6,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "sentence_index_neg": 4,
+                    "ana": {
+                        "lex": "Enigma",
+                        "gr.pos": "PROPN"
+                    }
+                },
+                {
+                    "wf": "al",
+                    "wtype": "word",
+                    "off_start": 7,
+                    "off_end": 9,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "sentence_index_neg": 3,
+                    "ana": {
+                        "lex": "al",
+                        "gr.pos": "ADP",
+                        "gr.number": "Sing",
+                        "gr.proType": "Art",
+                        "gr.gen": "Masc",
+                        "gr.definite": "Def"
+                    }
+                },
+                {
+                    "wf": "trasluz",
+                    "wtype": "word",
+                    "off_start": 10,
+                    "off_end": 17,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "sentence_index_neg": 2,
+                    "ana": {
+                        "lex": "trasluz",
+                        "gr.pos": "NOUN",
+                        "gr.number": "Sing",
+                        "gr.gen": "Masc"
+                    }
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 18,
+                    "off_end": 19,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "sentence_index_neg": 1
+                }
+            ],
+            "lang": 1,
+            "meta": 5
+        },
+        {
+            "text": "pues va entre gente solo,",
+            "words": [
+                {
+                    "wf": "pues",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 4,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "sentence_index_neg": 6,
+                    "ana": {
+                        "lex": "pues",
+                        "gr.pos": "SCONJ"
+                    }
+                },
+                {
+                    "wf": "va",
+                    "wtype": "word",
+                    "off_start": 5,
+                    "off_end": 7,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "sentence_index_neg": 5,
+                    "ana": {
+                        "lex": "ir",
+                        "gr.pos": "VERB",
+                        "gr.number": "Sing",
+                        "gr.pers": "3",
+                        "gr.mood": "Ind",
+                        "gr.tense": "Pres",
+                        "gr.verbform": "Fin"
+                    }
+                },
+                {
+                    "wf": "entre",
+                    "wtype": "word",
+                    "off_start": 8,
+                    "off_end": 13,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "sentence_index_neg": 4,
+                    "ana": {
+                        "lex": "entre",
+                        "gr.pos": "ADP"
+                    }
+                },
+                {
+                    "wf": "gente",
+                    "wtype": "word",
+                    "off_start": 14,
+                    "off_end": 19,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "sentence_index_neg": 3,
+                    "ana": {
+                        "lex": "gente",
+                        "gr.pos": "NOUN",
+                        "gr.number": "Sing",
+                        "gr.gen": "Fem"
+                    }
+                },
+                {
+                    "wf": "solo",
+                    "wtype": "word",
+                    "off_start": 20,
+                    "off_end": 24,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "sentence_index_neg": 2,
+                    "ana": {
+                        "lex": "solo",
+                        "gr.pos": "ADJ",
+                        "gr.number": "Sing",
+                        "gr.gen": "Masc"
+                    }
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 25,
+                    "off_end": 26,
+                    "sentence_index": 5,
+                    "next_word": 6,
+                    "sentence_index_neg": 1
+                }
+            ],
+            "lang": 1,
+            "meta": 7
+        },
+        {
+            "text": "es amor con odio",
+            "words": [
+                {
+                    "wf": "es",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 2,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "sentence_index_neg": 4,
+                    "ana": {
+                        "lex": "ser",
+                        "gr.pos": "AUX",
+                        "gr.number": "Sing",
+                        "gr.pers": "3",
+                        "gr.mood": "Ind",
+                        "gr.tense": "Pres",
+                        "gr.verbform": "Fin"
+                    }
+                },
+                {
+                    "wf": "amor",
+                    "wtype": "word",
+                    "off_start": 3,
+                    "off_end": 7,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "sentence_index_neg": 3,
+                    "ana": {
+                        "lex": "amor",
+                        "gr.pos": "NOUN",
+                        "gr.number": "Sing",
+                        "gr.gen": "Masc"
+                    }
+                },
+                {
+                    "wf": "con",
+                    "wtype": "word",
+                    "off_start": 8,
+                    "off_end": 11,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "sentence_index_neg": 2,
+                    "ana": {
+                        "lex": "con",
+                        "gr.pos": "ADP"
+                    }
+                },
+                {
+                    "wf": "odio",
+                    "wtype": "word",
+                    "off_start": 12,
+                    "off_end": 16,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "sentence_index_neg": 1,
+                    "ana": {
+                        "lex": "odio",
+                        "gr.pos": "NOUN",
+                        "gr.number": "Sing",
+                        "gr.gen": "Masc"
+                    }
+                }
+            ],
+            "lang": 1,
+            "meta": 6
+        },
+        {
+            "text": "el andaluz.",
+            "words": [
+                {
+                    "wf": "el",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 2,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "sentence_index_neg": 3,
+                    "ana": {
+                        "lex": "el",
+                        "gr.pos": "DET",
+                        "gr.number": "Sing",
+                        "gr.proType": "Art",
+                        "gr.gen": "Masc",
+                        "gr.definite": "Def"
+                    }
+                },
+                {
+                    "wf": "andaluz",
+                    "wtype": "word",
+                    "off_start": 3,
+                    "off_end": 10,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "sentence_index_neg": 2,
+                    "ana": {
+                        "lex": "andaluz",
+                        "gr.pos": "NOUN",
+                        "gr.number": "Sing",
+                        "gr.gen": "Masc"
+                    }
+                },
+                {
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_start": 11,
+                    "off_end": 12,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "sentence_index_neg": 1
+                }
+            ],
+            "lang": 1,
+            "meta": 4
+        },
+        {
+            "text": "Oh hermano m\u00edo, t\u00fa.",
+            "words": [
+                {
+                    "wf": "Oh",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 2,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "sentence_index_neg": 6,
+                    "ana": {
+                        "lex": "oh",
+                        "gr.pos": "INTJ"
+                    }
+                },
+                {
+                    "wf": "hermano",
+                    "wtype": "word",
+                    "off_start": 3,
+                    "off_end": 10,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "sentence_index_neg": 5,
+                    "ana": {
+                        "lex": "hermano",
+                        "gr.pos": "NOUN",
+                        "gr.number": "Sing",
+                        "gr.gen": "Masc"
+                    }
+                },
+                {
+                    "wf": "m\u00edo",
+                    "wtype": "word",
+                    "off_start": 11,
+                    "off_end": 14,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "sentence_index_neg": 4,
+                    "ana": {
+                        "lex": "m\u00edo",
+                        "gr.pos": "DET",
+                        "gr.number": "Sing",
+                        "gr.proType": "Ind",
+                        "gr.gen": "Masc",
+                        "gr.pers": "1"
+                    }
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 15,
+                    "off_end": 16,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "wf": "t\u00fa",
+                    "wtype": "word",
+                    "off_start": 17,
+                    "off_end": 19,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "sentence_index_neg": 2,
+                    "ana": {
+                        "lex": "t\u00fa",
+                        "gr.pos": "PRON",
+                        "gr.number": "Sing",
+                        "gr.case": "Nom",
+                        "gr.proType": "Prs",
+                        "gr.pers": "2"
+                    }
+                },
+                {
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_start": 20,
+                    "off_end": 21,
+                    "sentence_index": 5,
+                    "next_word": 6,
+                    "sentence_index_neg": 1
+                }
+            ],
+            "lang": 1,
+            "meta": 5
+        },
+        {
+            "text": "Dios, que te crea,",
+            "words": [
+                {
+                    "wf": "Dios",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 4,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "sentence_index_neg": 6,
+                    "ana": {
+                        "lex": "Dios",
+                        "gr.pos": "PROPN"
+                    }
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 5,
+                    "off_end": 6,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "sentence_index_neg": 5
+                },
+                {
+                    "wf": "que",
+                    "wtype": "word",
+                    "off_start": 7,
+                    "off_end": 10,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "sentence_index_neg": 4,
+                    "ana": {
+                        "lex": "que",
+                        "gr.pos": "PRON",
+                        "gr.proType": "Int"
+                    }
+                },
+                {
+                    "wf": "te",
+                    "wtype": "word",
+                    "off_start": 11,
+                    "off_end": 13,
+                    "sentence_index": 3,
+                    "next_word": 4,
+                    "sentence_index_neg": 3,
+                    "ana": {
+                        "lex": "t\u00fa",
+                        "gr.pos": "PRON",
+                        "gr.number": "Sing",
+                        "gr.case": "Dat",
+                        "gr.proType": "Prs",
+                        "gr.pers": "2"
+                    }
+                },
+                {
+                    "wf": "crea",
+                    "wtype": "word",
+                    "off_start": 14,
+                    "off_end": 18,
+                    "sentence_index": 4,
+                    "next_word": 5,
+                    "sentence_index_neg": 2,
+                    "ana": {
+                        "lex": "creer",
+                        "gr.pos": "VERB",
+                        "gr.number": "Sing",
+                        "gr.pers": "3",
+                        "gr.mood": "Sub",
+                        "gr.tense": "Pres",
+                        "gr.verbform": "Fin"
+                    }
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 19,
+                    "off_end": 20,
+                    "sentence_index": 5,
+                    "next_word": 6,
+                    "sentence_index_neg": 1
+                }
+            ],
+            "lang": 1,
+            "meta": 4
+        },
+        {
+            "text": "ser\u00e1 qui\u00e9n comprenda",
+            "words": [
+                {
+                    "wf": "ser\u00e1",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 4,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "sentence_index_neg": 3,
+                    "ana": {
+                        "lex": "ser",
+                        "gr.pos": "AUX",
+                        "gr.number": "Sing",
+                        "gr.pers": "3",
+                        "gr.mood": "Ind",
+                        "gr.tense": "Fut",
+                        "gr.verbform": "Fin"
+                    }
+                },
+                {
+                    "wf": "qui\u00e9n",
+                    "wtype": "word",
+                    "off_start": 5,
+                    "off_end": 10,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "sentence_index_neg": 2,
+                    "ana": {
+                        "lex": "qui\u00e9n",
+                        "gr.pos": "PRON",
+                        "gr.number": "Sing",
+                        "gr.proType": "Int"
+                    }
+                },
+                {
+                    "wf": "comprenda",
+                    "wtype": "word",
+                    "off_start": 11,
+                    "off_end": 20,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "sentence_index_neg": 1,
+                    "ana": {
+                        "lex": "comprender",
+                        "gr.pos": "VERB",
+                        "gr.number": "Sing",
+                        "gr.pers": "3",
+                        "gr.mood": "Sub",
+                        "gr.tense": "Pres",
+                        "gr.verbform": "Fin"
+                    }
+                }
+            ],
+            "lang": 1,
+            "meta": 6
+        },
+        {
+            "text": "al andaluz.",
+            "words": [
+                {
+                    "wf": "al",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 2,
+                    "sentence_index": 0,
+                    "next_word": 1,
+                    "sentence_index_neg": 3,
+                    "ana": {
+                        "lex": "al",
+                        "gr.pos": "ADP",
+                        "gr.number": "Sing",
+                        "gr.proType": "Art",
+                        "gr.gen": "Masc",
+                        "gr.definite": "Def"
+                    }
+                },
+                {
+                    "wf": "andaluz",
+                    "wtype": "word",
+                    "off_start": 3,
+                    "off_end": 10,
+                    "sentence_index": 1,
+                    "next_word": 2,
+                    "sentence_index_neg": 2,
+                    "ana": {
+                        "lex": "andaluz",
+                        "gr.pos": "NOUN",
+                        "gr.number": "Sing",
+                        "gr.gen": "Masc"
+                    }
+                },
+                {
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_start": 11,
+                    "off_end": 12,
+                    "sentence_index": 2,
+                    "next_word": 3,
+                    "sentence_index_neg": 1
+                }
+            ],
+            "lang": 1,
+            "meta": 4
+        }
+    ]
+}
