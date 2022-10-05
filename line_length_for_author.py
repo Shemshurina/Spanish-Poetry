@@ -12,7 +12,7 @@ def line_length(name):
         c = 0
         l = []
         while c < len(data['sentences']):
-            l.append(data['sentences'][a]['meta'])
+            l.append(data['sentences'][c]['meta'])
             c+=1
         l_counted = Counter(l)
         most_common_element = l_counted.most_common(1)
