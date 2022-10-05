@@ -9,17 +9,17 @@ def line_length(name):
         if filename.endswith('json') and filename.startswith(name):
             with open(filename, "r", encoding="utf-8") as file:
                 data = json.load(file)
-        c = 0
-        l = []
-        while c < len(data['sentences']):
-            l.append(data['sentences'][c]['meta'])
-            c+=1
-        l_counted = Counter(l)
-        most_common_element = l_counted.most_common(1)
-        if most_common_element[0][1] / len(data['sentences']) >= 0.75:
-            l2.append(most_common_element[0][0])
-        else:
-            l2.append('неодинаковое')
+            c = 0
+            l = []
+            while c < len(data['sentences']):
+                l.append(data['sentences'][c]['meta'])
+                c+=1
+            l_counted = Counter(l)
+            most_common_element = l_counted.most_common(1)
+            if most_common_element[0][1] / len(data['sentences']) >= 0.75:
+                l2.append(most_common_element[0][0])
+            else:
+                l2.append('неодинаковое')
     
     return Counter(l2)
 
