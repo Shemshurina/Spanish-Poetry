@@ -72,6 +72,5 @@ def get_years(filename):
 
 for filename in os.listdir(os.getcwd()):
     if filename.endswith('json'):
-        print(filename)
         get_years(filename)
 
